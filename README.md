@@ -1,7 +1,7 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git
 
-Nama: Camila
+Nama: Camila Fauzia
 
 NIM: 22/497339/SV/21119
 
